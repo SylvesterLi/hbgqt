@@ -42,3 +42,44 @@
 							<a href="https://www.douyu.com/4838735" style="font-weight:0;text-decoration:underline">青春湖北<br>(斗鱼直播)</p>
 						</td>
 					</tr>
+						<!-- 这是一行 、湖北省青年联合会、中国舞蹈家协会街舞委员会湖北联盟、武汉百年农工子弟学校-->
+					<tr>
+							<td>
+								湖北街舞联盟特别主题团日活动（武汉百年农工子弟学校）
+							</td>
+							<td>
+								04/11 10:40
+							</td>
+							<td>
+								<a href="https://www.douyu.com/4838735" style="font-weight:0;text-decoration:underline">青春湖北<br>(斗鱼直播)</p>		
+							</td>
+						</tr>
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- single course -->
+				<div class="col-md-3 col-sm-6 col-xs-6">
+					<div class="course">
+						<a href="http://m.v.qq.com/whyme/index.html?pid=1015238375&streamstyle=1&videofrom=qqlivebroadcast&from=singlemessage" class="course-img">
+							<img src="https://hbgqtcdn.azureedge.net/img/honghu.png" alt="">
+							<i class="course-link-icon fa fa-link"></i>
+						</a>
+						<a class="course-title" href="http://m.v.qq.com/whyme/index.html?pid=1015238375&streamstyle=1&videofrom=qqlivebroadcast&from=singlemessage">湘鄂西苏区革命烈士陵园主题团日活动</a>
+						<div class="course-details">
+							<span class="course-category">团洪湖市委</span>
+							<span class="course-price course-free">已结束</span><!--premium-->
+						</div>
+					</div>
+				</div>
+				<!-- /single course -->
